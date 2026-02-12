@@ -1,0 +1,8 @@
+[1mdiff --git a/index.txt b/index.txt[m
+[1mindex e4306cf..e5afd9b 100644[m
+[1m--- a/index.txt[m
+[1m+++ b/index.txt[m
+[36m@@ -1,2 +1,3 @@[m
+ "Bonjour Git !" [m
+ "Deuxiäme ligne ajoutÇe." [m
+[32m+[m[32m"Troisiäme ligne pour tester."[m[41m [m
